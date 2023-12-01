@@ -8,7 +8,7 @@ import java.util.Map;
 import org.junit.Test;
 
 // TODO: change tests to be representation independent
-public class ExpressionVariantsTest {
+public class ExpressionVariantsTests {
     // Testing Strategy for Expression
     // Partitions for Expression.parse: String -> Expression:
     // For operators + and *, the input string is to contain:
